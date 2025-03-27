@@ -2,7 +2,7 @@
 
 
 
-> python webhookb.py --coin=BTC/USDT --decimal=2
+> python webhookb.py --coin=BTC/USDT --decimal=1
 
 
 
